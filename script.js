@@ -257,7 +257,7 @@ function dom(tag, props, ...children) {
 }
 
 fetch(
-"https://gist.githubusercontent.com/Jetrom17/380adb1d9d7b6f23a948759b48fce64e/raw/105e8248af6c19ecab89d2946ed1f0622f03711f/music-info.json").
+"https://gist.githubusercontent.com/Jetrom17/380adb1d9d7b6f23a948759b48fce64e/raw/278e42d5c8256240e4f01d050521930f420cca89/music-info.json").
 
 then(respone => respone).
 then(data => data.json()).
